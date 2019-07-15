@@ -1,2 +1,2 @@
 # django-todo-react 
-### instrukcja uruchomienia
+### Instrukcja uruchomienia
